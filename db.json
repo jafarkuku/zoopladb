@@ -1,0 +1,85 @@
+{
+  "listings": [
+    {
+      "id": "d31a549a-eae3-4ab0-8e0d-fe743afaa019",
+      "price": {
+        "qualifier": "Offers over",
+        "value": 455000
+      },
+      "attributes": {
+        "beds": 3,
+        "baths": 1,
+        "reception": 1
+      },
+      "propertyType": "house",
+      "listingType": "sale",
+      "status": 2,
+      "location": {
+        "line1": "Marylee Way, London",
+        "postCode": "SE11"
+      },
+      "images": [
+        {
+          "id": "8ca659b8-ee1d-4f06-ac93-ff5f6b88db44",
+          "uri":
+            "https://images.pexels.com/photos/463996/pexels-photo-463996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": "69ca5053-1a30-4397-bd65-c094362a3334",
+          "uri":
+            "https://images.pexels.com/photos/3209045/pexels-photo-3209045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": "3dff9366-6996-4b23-b802-05ffe732c661",
+          "uri":
+            "https://images.pexels.com/photos/4276611/pexels-photo-4276611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": "885ef0b4d-07ab-49d6-b3d0-510687b4008",
+          "uri":
+            "https://images.pexels.com/photos/4276616/pexels-photo-4276616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": "ae9c4dfb-0ab7-4010-b162-52ba011b43b3",
+          "uri":
+            "https://images.pexels.com/photos/90317/pexels-photo-90317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": "f4edad9f-2853-4728-b0a1-fb3823ab04ec",
+          "uri":
+            "https://images.pexels.com/photos/4713245/pexels-photo-4713245.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": "50f59671-8a23-47aa-96e0-963d0f528d19",
+          "uri":
+            "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": "d0ec916e-fbad-4a9e-b718-696cf8a3a924",
+          "uri":
+            "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": "4046fc8e-3bbf-4e54-81f4-d5941b5604b1",
+          "uri":
+            "https://images.pexels.com/photos/1454804/pexels-photo-1454804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": "aad725d5-3aac-4b4b-834b-d06f4ef15298",
+          "uri":
+            "https://images.pexels.com/photos/1358912/pexels-photo-1358912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+          "id": "9b19936f-931d-4c27-8e01-6caec41ccb51",
+          "uri":
+            "https://images.pexels.com/photos/460695/pexels-photo-460695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=12600"
+        },
+        {
+          "id": "e2415573-e72f-4990-ad83-c51086c2799f",
+          "uri":
+            "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+      ]
+    }
+  ]
+}
